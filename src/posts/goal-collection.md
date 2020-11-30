@@ -36,8 +36,8 @@ date: "2020-11-29"
     * App: Duo
 
 ##### 👩‍💻 Profession
-* 🤖 Testing & ⚙️  Automation Skills
-* 👨‍💻DevOps Understanding (CI/CD)
+* 🤖 Testing & ⚙️Automation Skills
+* 👨‍💻 DevOps Understanding (CI/CD)
 * 👨‍💻 Algorithm design and programming proficiency
 * 📱 Mobile App Designing
 * 👨‍💻 Course Designing
