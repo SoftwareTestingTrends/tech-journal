@@ -23,7 +23,7 @@ date: "2020-11-29"
 
 #### 🏢 Career
 
-##### Self Improvement
+##### 🏆Self Improvement
 * Journal Weekly
 * Read 30 Minutes, Each Day
     * App: Blinkist
@@ -32,7 +32,7 @@ date: "2020-11-29"
 
 * One New Experience Each Week.
 * One Conversation Per Week with Someone Smarter Than You.
-* Learn a new language
+* Learn a new language (human language)
     * App: Duo
 
 ##### 👩‍💻 Profession
@@ -43,6 +43,7 @@ date: "2020-11-29"
 * 👨‍💻 Course Designing
 * ✍️ Article/Blog Writing
 * 📚 Book Writing
+
 ##### 🏦 Financial
 * Goal 1
 * Goal 2
