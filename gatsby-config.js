@@ -9,7 +9,7 @@ module.exports = {
   pathPrefix: "/tech-journal",
   siteMetadata: {
     title: "Tech Journal",
-    description: "Everything I like to learn & explore.",
+    description: "Everything I like to learn & explore",
     author: "Ambreen Khan",
   },
   plugins: [
