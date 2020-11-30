@@ -1,9 +1,10 @@
 ---
 title: "Let's define your goal collection"
-date: "2020-11-29"
+date: "2020-11-30"
 ---
 
 ### My Goal Collection
+Here is a glimpse of my personal goals...
 
 #### 💪 Health
 * Wake Up on Time Every Morning.
