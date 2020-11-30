@@ -6,7 +6,7 @@ const About = () => {
     <Layout>
         <div>
         <h1>About Me</h1>
-        <p>My name is Ambreen Khan & I am a software testing professional. My nearly 15 years of experience in Information Technology is definitely varied, ranging from <a href="www.rmhsolutions.com" target="_blank">Web Site Development</a> & App Designing to Testing & Automation. Passion for quality is what drives me and I like to follow best practices whenever possible.</p>
+        <p>My name is Ambreen Khan & I am a software testing professional. My nearly 15 years of experience in Information Technology is definitely varied, ranging from <a href="https://www.rmhsolutions.com" target="_blank">Web Site Development</a> & App Designing to Testing & Automation. Passion for quality is what drives me and I like to follow best practices whenever possible.</p>
         <p>As someone who has done both, software development & testing, I would say I have an equal appreciation for both. I like to be able to create software that can “drive” other software as part of a test. This allows me to keep both my Tester & Developer mindset’s working and thinking.</p>
         <p>Want to know more about me? Checkout my <a href="https://arkhangelsk.github.io/AdventuresInLearning/" target="_blank">Adventures in Learning</a></p>
         <h2>✍️ Blog & Writing</h2>
