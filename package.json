@@ -11,7 +11,8 @@
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
+    "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1",
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public"
   },
   "dependencies": {
     "gatsby": "^2.26.1",
@@ -19,6 +20,7 @@
     "gatsby-remark-images": "^3.6.0",
     "gatsby-source-filesystem": "^2.6.1",
     "gatsby-transformer-remark": "^2.11.1",
+    "gh-pages": "^3.1.0",
     "node-sass": "4.14.1",
     "react": "^16.12.0",
     "react-dom": "^16.12.0"

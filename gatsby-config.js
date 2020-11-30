@@ -6,6 +6,7 @@
 
 module.exports = {
   /* Your site config here */
+  pathPrefix: "https://github.com/SoftwareTestingTrends/tech-journal",
   siteMetadata: {
     title: "Tech Journal",
     description: "Everything I like to learn & explore.",
