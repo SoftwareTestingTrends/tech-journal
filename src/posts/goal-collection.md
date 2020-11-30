@@ -22,20 +22,6 @@ date: "2020-11-29"
 * 👨‍👨‍👧‍👧 Collegues  
 
 #### 🏢 Career
-
-##### 🏆Self Improvement
-* Journal Weekly
-* Read 30 Minutes, Each Day
-    * App: Blinkist
-    * YouTube Channel: Productivity Games
-    * Website: Commonplace - [Books Summary](https://commoncog.com/blog/tag/books/)  
-
-* One New Experience Each Week.
-* One Conversation Per Week with Someone Smarter Than You.
-* Learn a new language (human language)
-    * App: Duo
-
-##### 👩‍💻 Profession
 * 🤖 Testing & ⚙️Automation Skills
 * 👨‍💻 DevOps Understanding (CI/CD)
 * 👨‍💻 Algorithm design and programming proficiency
@@ -44,7 +30,18 @@ date: "2020-11-29"
 * ✍️ Article/Blog Writing
 * 📚 Book Writing
 
-##### 🏦 Financial
+#### 🏆Self Improvement
+* Journal Weekly
+* Read(or listen) a book - 15 Minutes, Each Day
+    * App: Blinkist
+    * YouTube Channel: Productivity Games
+    * Website: Commonplace - [Books Summary](https://commoncog.com/blog/tag/books/)  
+* One New Experience Each Week.
+* One Conversation Per Week with Someone Smarter Than You.
+* Learn a new language (human language)
+    * App: Duo
+
+#### 🏦 Financial
 * Goal 1
 * Goal 2
 * Goal 3
