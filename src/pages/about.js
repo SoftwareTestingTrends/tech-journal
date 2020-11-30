@@ -6,27 +6,27 @@ const About = () => {
     <Layout>
         <div>
         <h1>About Me</h1>
-        <p>My name is Ambreen Khan & I am a software testing professional. My nearly 15 years of experience in Information Technology is definitely varied, ranging from <a href="https://www.rmhsolutions.com" target="_blank">Web Site Development</a> & App Designing to Testing & Automation. Passion for quality is what drives me and I like to follow best practices whenever possible.</p>
+        <p>My name is Ambreen Khan & I am a software testing professional. My nearly 15 years of experience in Information Technology is definitely varied, ranging from <a href="https://www.rmhsolutions.com" target="_blank"><i style={{color: "DodgerBlue"}}>Web Site Development</i></a> & App Designing to Testing & Automation. Passion for quality is what drives me and I like to follow best practices whenever possible.</p>
         <p>As someone who has done both, software development & testing, I would say I have an equal appreciation for both. I like to be able to create software that can “drive” other software as part of a test. This allows me to keep both my Tester & Developer mindset’s working and thinking.</p>
-        <p>Want to know more about me? Checkout my <a href="https://arkhangelsk.github.io/AdventuresInLearning/" target="_blank">Adventures in Learning</a></p>
+        <p>Want to know more about me? Checkout my <a href="https://arkhangelsk.github.io/AdventuresInLearning/" target="_blank"><i style={{color: "DodgerBlue"}}>Adventures in Learning</i></a></p>
         <h2>✍️ Blog & Writing</h2>
-        <p>Apart from testing, I also love to share my knowledge. You can find my articles on my blog Software Testing Trends & on my Github Wiki Tech Journal</p>
+        <p>Apart from testing, I also love to share my knowledge. You can find my articles on my blog <a href="https://softwaretestingtrends.com/" target="_blank"><i style={{color: "DodgerBlue"}}>Software Testing Trends</i></a> & on my Github Wiki <a href="https://arkhangelsk.github.io/TechJournal/" target="_blank"><i style={{color: "DodgerBlue"}}>Tech Journal</i></a></p>
         <h2>👩🏽‍🏫 As an instructor</h2>
         <p>I like to educate and motivate others through my training on Udemy & SkillShare. Checkout my courses:</p>
         <h3>Udemy</h3>
         <ul>
-          <li><a href="https://www.udemy.com/course/road-map-to-become-test-automation-engineer/?referralCode=0CF887F5712A3306049F" target="_blank">Roadmap to become a Test Automation Engineer</a></li>
-          <li><a href="https://www.udemy.com/course/maximize-your-learning-potential/?referralCode=0C7648E8779000222F79" target="_blank">Maximize Your Learning Potential</a></li>
+          <li><a href="https://www.udemy.com/course/road-map-to-become-test-automation-engineer/?referralCode=0CF887F5712A3306049F" target="_blank" style={{color: "DodgerBlue"}}>Roadmap to become a Test Automation Engineer</a></li>
+          <li><a href="https://www.udemy.com/course/maximize-your-learning-potential/?referralCode=0C7648E8779000222F79" target="_blank" style={{color: "DodgerBlue"}}>Maximize Your Learning Potential</a></li>
         </ul>
         <h3>SkillShare</h3>
         <ul>
-          <li><a href="https://skl.sh/2H3KK0g" target="_blank">Roadmap to become a Test Automation Engineer</a></li>
+          <li><a href="https://skl.sh/2H3KK0g" target="_blank" style={{color: "DodgerBlue"}}>Roadmap to become a Test Automation Engineer</a></li>
         </ul>
         <h2>📫 How to reach me</h2>
         <ul>
-          <li><a href="https://twitter.com/ambysan" target="_blank">Twitter</a></li>
-          <li><a href="https://www.facebook.com/softwaretestingtrend" target="_blank">Facebook</a></li>
-          <li><a href="https://www.linkedin.com/in/ambysan/" target="_blank">LinkedIn</a></li>
+          <li><a href="https://twitter.com/ambysan" target="_blank" style={{color: "DodgerBlue"}}>Twitter</a></li>
+          <li><a href="https://www.facebook.com/softwaretestingtrend" target="_blank" style={{color: "DodgerBlue"}}>Facebook</a></li>
+          <li><a href="https://www.linkedin.com/in/ambysan/" target="_blank" style={{color: "DodgerBlue"}}>LinkedIn</a></li>
         </ul>
         </div>
         
