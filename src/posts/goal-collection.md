@@ -11,32 +11,36 @@ date: "2020-11-29"
 * Good Sleep
 * Healthy Eating
 * Enough Water
+
 #### 🤝 Relations
-* :family: Family First
+* 👪 Family First
     * Spouse
     * Children
     * Parents
     * Siblings
-* :two_women_holding_hands: Friends
-* :two_men_holding_hands: Collegues    
-#### :office: Career
+* 👧🏻 Friends
+* 👨‍👨‍👧‍👧 Collegues  
+
+#### 🏢 Career
+
 ##### Self Improvement
-* :green_book: Journal Weekly
-* :book: Read 30 Minutes, Each Day
+* Journal Weekly
+* Read 30 Minutes, Each Day
     * App: Blinkist
     * YouTube Channel: Productivity Games
-    * Website: Commonplace - [Books Summary](https://commoncog.com/blog/tag/books/)
-* :stars: One New Experience Each Week.
-* :older_man: One Conversation Per Week with Someone Smarter Than You.
+    * Website: Commonplace - [Books Summary](https://commoncog.com/blog/tag/books/)  
+
+* One New Experience Each Week.
+* One Conversation Per Week with Someone Smarter Than You.
 * Learn a new language
     * App: Duo
 
 ##### 👩‍💻 Profession
 * 🤖 Testing & ⚙️  Automation Skills
-* :computer: DevOps Understanding (CI/CD)
+* 👨‍💻DevOps Understanding (CI/CD)
 * 👨‍💻 Algorithm design and programming proficiency
 * 📱 Mobile App Designing
-* 🧑‍🏫 Course Designing
+* 👨‍💻 Course Designing
 * ✍️ Article/Blog Writing
 * 📚 Book Writing
 ##### 🏦 Financial
