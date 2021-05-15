@@ -17,7 +17,7 @@ const Header = () => {
       )
     return (
         <header className={headerStyles.header}>
-            <div className="{headerStyles.overlay}"></div>
+           <div className="{headerStyles.overlay}"></div>
            <div className={headerStyles.heroContent}>
           <p className={headerStyles.brand}>
               <Link to="/">{data.site.siteMetadata.title}</Link>
