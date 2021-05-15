@@ -1,6 +1,6 @@
 ---
-title: "Get productive & define your goals"
-date: "2020-11-29"
+title: "Get aquainted with productivity vocabulary"
+date: "2020-11-28"
 ---
 
 ### What is a goal collection?

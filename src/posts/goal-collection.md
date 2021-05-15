@@ -1,9 +1,10 @@
 ---
 title: "Let's define your goal collection"
-date: "2020-11-29"
+date: "2020-11-30"
 ---
 
 ### My Goal Collection
+Here is a glimpse of my personal goals...
 
 #### 💪 Health
 * Wake Up on Time Every Morning.
@@ -22,20 +23,6 @@ date: "2020-11-29"
 * 👨‍👨‍👧‍👧 Collegues  
 
 #### 🏢 Career
-
-##### Self Improvement
-* Journal Weekly
-* Read 30 Minutes, Each Day
-    * App: Blinkist
-    * YouTube Channel: Productivity Games
-    * Website: Commonplace - [Books Summary](https://commoncog.com/blog/tag/books/)  
-
-* One New Experience Each Week.
-* One Conversation Per Week with Someone Smarter Than You.
-* Learn a new language
-    * App: Duo
-
-##### 👩‍💻 Profession
 * 🤖 Testing & ⚙️Automation Skills
 * 👨‍💻 DevOps Understanding (CI/CD)
 * 👨‍💻 Algorithm design and programming proficiency
@@ -43,7 +30,19 @@ date: "2020-11-29"
 * 👨‍💻 Course Designing
 * ✍️ Article/Blog Writing
 * 📚 Book Writing
-##### 🏦 Financial
+
+#### 🏆Self Improvement
+* Journal Weekly
+* Read(or listen) a book - 15 Minutes, Each Day
+    * App: Blinkist
+    * YouTube Channel: Productivity Games
+    * Website: Commonplace - [Books Summary](https://commoncog.com/blog/tag/books/)  
+* One New Experience Each Week.
+* One Conversation Per Week with Someone Smarter Than You.
+* Learn a new language (human language)
+    * App: Duo
+
+#### 🏦 Financial
 * Goal 1
 * Goal 2
 * Goal 3
